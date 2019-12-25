@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Numbers</string>
+    <string name="go_to_activity_b">Activity B Button</string>
+    <string name="go_to_activity_a">Activity A Button</string>
+</resources>
