@@ -12,11 +12,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        val email = findViewById<EditText>(R.id.emailField).text
-        val password = findViewById<EditText>(R.id.passwordField).text
         val buttonA = findViewById<Button>(R.id.loginButton)
         buttonA.setOnClickListener {
+            val email = findViewById<EditText>(R.id.emailField).text
+            val password = findViewById<EditText>(R.id.passwordField).text
+
             if (emailIsValid(email.toString())) {
                 val intent = Intent(this, LoggedScreen::class.java)
                 intent.putExtra("email", email.toString())

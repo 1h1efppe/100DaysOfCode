@@ -21,7 +21,7 @@
 
     <TextView
         android:id="@+id/passwordTextView"
-        android:layout_width="  "
+        android:layout_width="300dp"
         android:layout_height="30dp"
         android:layout_marginBottom="312dp"
         android:gravity="center"
