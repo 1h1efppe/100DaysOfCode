@@ -1,8 +1,6 @@
 ## DAY 3 CHALLENGE
 
-#### Today’s challenge is to create an android application with a single Activity A that contains a TextView, a Spinner and a Button widgets. 
-#### The Spinner will be populated from a String-Array. 
-#### When an option is selected from the Spinner widget and the submit button is clicked, the option value selected from the Spinner is displayed on a TextView.
+#### Today’s challenge is to create an android application with a single Activity A that contains a TextView, a Spinner and a Button widgets. The Spinner will be populated from a String-Array. When an option is selected from the Spinner widget and the submit button is clicked, the option value selected from the Spinner is displayed on a TextView.
 
 ### TASK REQUIREMENTS
 1. Create a Single Activity A (Launch Activity)
