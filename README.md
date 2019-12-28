@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-### Challenge author -> (https://inducesmile.com/source-code/android-development-challenge/)
+### Challenge author: [inducesmile](https://inducesmile.com/source-code/android-development-challenge/)
 
 <details><summary>Done</summary>
 <p>
