@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day 6 Android Challenge</string>
+    <string name="description_text">Select any number of CheckBox and display the text on the CheckBox on Button Click</string>
+    <string name="display_selected_checkbox_values">Display selected CheckBox values</string>
+    <string name="when_the_button_is_clicked">When the button is clicked</string>
+    <string name="check_four">Check Four</string>
+    <string name="check_one">Check one</string>
+    <string name="check_two">Check two</string>
+    <string name="check_three">Check three</string>
+    <string name="arrow">arrow</string>
+</resources>
