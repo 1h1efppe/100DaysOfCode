@@ -10,6 +10,7 @@
 [Day 3](https://github.com/betaraybill/100DaysOfCode/tree/master/SpinnerApp)
 [Day 4](https://github.com/betaraybill/100DaysOfCode/tree/master/Seekbar)
 [Day 5](https://github.com/betaraybill/100DaysOfCode/tree/master/Radiogroup)
+[Day 6](https://github.com/betaraybill/100DaysOfCode/tree/master/CheckboxApp)
 
 </p>
 </details>
@@ -17,7 +18,6 @@
 <details><summary>To do</summary>
 <p>
 
-[Day 6]
 [Day 7]
 [Day 8]
 [Day 9]
