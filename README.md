@@ -11,14 +11,13 @@
 [Day 4](https://github.com/betaraybill/100DaysOfCode/tree/master/Seekbar)
 [Day 5](https://github.com/betaraybill/100DaysOfCode/tree/master/Radiogroup)
 [Day 6](https://github.com/betaraybill/100DaysOfCode/tree/master/CheckboxApp)
+[Day 7](https://github.com/betaraybill/100DaysOfCode/tree/master/AndroidImageView)
 
 </p>
 </details>
 
 <details><summary>To do</summary>
 <p>
-
-[Day 7]
 [Day 8]
 [Day 9]
 [Day 10]
