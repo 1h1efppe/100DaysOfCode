@@ -13,18 +13,13 @@
 [Day 6](https://github.com/betaraybill/100DaysOfCode/tree/master/CheckboxApp)
 [Day 7](https://github.com/betaraybill/100DaysOfCode/tree/master/AndroidImageView)
 [Day 8-13](https://github.com/betaraybill/CurrencyConverter)
+[Day 14](https://github.com/betaraybill/100DaysOfCode/tree/master/LoginForm)
 
 </p>
 </details>
 
 <details><summary>To do</summary>
 <p>
-[Day 9]
-[Day 10]
-[Day 11]
-[Day 12]
-[Day 13]
-[Day 14]
 [Day 15]
 [Day 16]
 [Day 17]
