@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LoginLogout</string>
+    <string name="app_name">DAY 8 OF 100 ANDROID CHALLENGE</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
 </resources>

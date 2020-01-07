@@ -6,4 +6,43 @@
     android:layout_height="match_parent"
     tools:context=".LoggedScreen">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="96dp"
+        android:text="@string/welcome"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="225dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="35dp"
+        android:backgroundTint="#D9C806"
+        android:text="@string/logout"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameTextView"
+        app:layout_constraintVertical_bias="0.442" />
 </androidx.constraintlayout.widget.ConstraintLayout>
