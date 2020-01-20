@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# 100DaysOfCode... that somehow  became only two weeks of Kotlin/Android :)
 
 ### Challenge author: [inducesmile](https://inducesmile.com/source-code/android-development-challenge/)
 
