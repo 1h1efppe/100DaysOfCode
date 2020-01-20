@@ -14,7 +14,6 @@
 * [Day 7 - ImageView](https://github.com/betaraybill/100DaysOfCode/tree/master/AndroidImageView)
 * [Day 8-13 - Retrofit2 currency exchange app](https://github.com/betaraybill/CurrencyConverter)
 * [Day 14 - login form with shared preferences](https://github.com/betaraybill/100DaysOfCode/tree/master/LoginForm)
-* [Day 15 - SQLite spinner app](https://github.com/betaraybill/100DaysOfCode/tree/master/SQLiteTask)
 
 </p>
 </details>
