@@ -19,8 +19,6 @@ class MainActivity : AppCompatActivity() {
         val result = findViewById<TextView>(R.id.result)
         val image = findViewById<ImageView>(R.id.resultImage)
 
-
-
         fun calculateBmi(): String {
             var text = ""
             if (weight.text.isEmpty() || height.text.isEmpty()) {
