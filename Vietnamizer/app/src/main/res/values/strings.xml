@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vietnamizer</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="save_result">Save result</string>
+    <string name="share">Share</string>
+    <string name="image">Image</string>
+    <string name="vietnamized_image">Vietnamized image</string>
+    <string name="vietnamization_level">Vietnamization level</string>
+</resources>
