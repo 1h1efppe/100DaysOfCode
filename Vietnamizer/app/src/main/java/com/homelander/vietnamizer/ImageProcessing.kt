@@ -17,7 +17,6 @@ import java.util.*
 class ImageProcessing {
     fun getGrayscale(src: Bitmap): Bitmap? {
 
-        //Custom color matrix to convert to GrayScale
         val matrix = floatArrayOf(
             0.3f, 0.59f, 0.11f, 0f, 0f,
             0.3f, 0.59f, 0.11f, 0f, 0f,
@@ -37,7 +36,7 @@ class ImageProcessing {
     }
 
 
-    fun overlayBitmapToCenter(bitmap1: Bitmap, bitmap2: Bitmap): Bitmap? {
+    fun overlayBitmapToCenter(bitmap1: Bitmap, bitmap2: Bitmap, alpha: Int): Bitmap? {
         val bitmap1Width = bitmap1.width
         val bitmap1Height = bitmap1.height
         val bitmap2Width = bitmap1.width
@@ -45,10 +44,10 @@ class ImageProcessing {
         val marginLeft = (bitmap1Width * 0.5 - bitmap2Width * 0.5).toFloat()
         val marginTop = (bitmap1Height * 0.5 - bitmap2Height * 0.5).toFloat()
         val overlayBitmap =
-            Bitmap.createBitmap(bitmap1Width, bitmap1Height, bitmap1.config)
+            Bitmap.createBitmap(bitmap1Width, bitmap1Height, bitmap2.config)
         val canvas = Canvas(overlayBitmap)
         val paint = Paint()
-        paint.alpha = 160
+        paint.alpha = alpha
         canvas.drawBitmap(bitmap1, Matrix(), null)
         canvas.drawBitmap(bitmap2, marginLeft, marginTop, paint)
         return overlayBitmap
