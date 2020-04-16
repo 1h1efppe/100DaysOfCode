@@ -17,3 +17,6 @@
 
 </p>
 </details>
+
+
+After some time challenge was dropped, so now it's just a bunch of small apps with bad design/architecture :D
